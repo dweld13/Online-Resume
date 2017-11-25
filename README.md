@@ -11,6 +11,6 @@ Open index.html in your web browser
 
 OR
 
-Follow link for live version: 
+Follow link for live version: https://dweld13.github.io/Online-Resume/
 
 Page should be updated in accordance with any changes.
